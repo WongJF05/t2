@@ -1,6 +1,6 @@
 <?php
 $host = 'database-1.cdmd8ockimnp.us-east-1.rds.amazonaws.com';
-$dbname = 'ecommerce';
+$dbname = 'graduate';
 $user = 'admin';
 $password = 'your_rds_password';
 
